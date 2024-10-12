@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { mentorAPI } from "./utils/constants";
+import { mentorAPI } from "../utilities/constants";
 
 export default function Home() {
   return (
